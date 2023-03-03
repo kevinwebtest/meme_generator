@@ -505,7 +505,7 @@ function Header() {
         _react2.default.createElement(
             "h4",
             { className: "header--project" },
-            "React Course - Project 3"
+            "Created using React"
         )
     );
 }
